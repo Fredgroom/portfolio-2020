@@ -2,7 +2,7 @@
   "name": "portfolio-2020",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Fredgroom/portfolio-2020",
+  "homepage": "Fredgroom.github.com/portfolio-2020",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
