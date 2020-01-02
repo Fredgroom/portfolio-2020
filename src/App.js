@@ -16,7 +16,12 @@ const App = () => {
         <p>I am a currently an associate developer at Decision Technology</p>
         <p>My current responsibilities involve</p>
         <ul>
-          <li></li>
+          <li>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore
+            officiis, aspernatur explicabo consectetur tempora quam debitis
+            pariatur. Totam quam molestias quasi vel. Cumque unde quae ab,
+            quidem voluptas laborum. Illum.
+          </li>
         </ul>
       </body>
       <footer>
